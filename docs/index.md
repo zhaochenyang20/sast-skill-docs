@@ -32,4 +32,4 @@
 | [ChrisZhang](https://zcy.moe/) | Rust |
 | livingshade | 对抗搜索 |
 | lys | Swift、Swift UI |
-| [zcy0](https://zhaochenyang20.github.io) | C++ OOP |
+| [Eren Zhao](https://zhaochenyang20.github.io) | C++ OOP |
